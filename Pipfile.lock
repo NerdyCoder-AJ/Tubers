@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "3b08692cdfd6c0c98001ae0ee0a9f6e1288eafd782cb3f9708649bf3f981a352"
+            "sha256": "4c66bf4aa57fbd213b127e6059c77a0b1639989d3ab42cf0a3a6c3534dc731af"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -31,6 +31,29 @@
             ],
             "index": "pypi",
             "version": "==3.2.3"
+        },
+        "django-jazzmin": {
+            "hashes": [
+                "sha256:585d0c998875d6ada49ffa7b1bc6c21dcb90a53ba4d0f42f6b0d8fcfc212fa4c",
+                "sha256:90f3ceee87517aa4183d22eef8ec34067588a37ef02484ac47502865be211148"
+            ],
+            "index": "pypi",
+            "version": "==2.4.7"
+        },
+        "django-suit": {
+            "hashes": [
+                "sha256:ab94fa2288cb82f47716c9c98357f1b4d117cacc9d7876c2a38c7a6c4a464f09"
+            ],
+            "index": "pypi",
+            "version": "==0.2.25"
+        },
+        "djangocms-admin-style": {
+            "hashes": [
+                "sha256:4381b259b62340127654a51a1eb83af2c9a42b608a36393c731c04712cd37068",
+                "sha256:6661a6c36ce56d18ec8fad05a3e56589417fc0bd0c647eb6d336e7f836999723"
+            ],
+            "index": "pypi",
+            "version": "==2.0.2"
         },
         "pillow": {
             "hashes": [
@@ -93,6 +116,12 @@
             "index": "pypi",
             "version": "==2.8.6"
         },
+        "pystache": {
+            "hashes": [
+                "sha256:f7bbc265fb957b4d6c7c042b336563179444ab313fb93a719759111eabd3b85a"
+            ],
+            "version": "==0.5.4"
+        },
         "pytz": {
             "hashes": [
                 "sha256:83a4a90894bf38e243cf052c8b58f381bfe9a7a483f6a9cab140bc7f702ac4da",
@@ -107,6 +136,13 @@
             ],
             "markers": "python_version >= '3.5'",
             "version": "==0.4.1"
+        },
+        "static": {
+            "hashes": [
+                "sha256:4a2dfc165c9242304b117e80fb200eb62742a1c51dbaac50451419dccee76395"
+            ],
+            "index": "pypi",
+            "version": "==1.1.1"
         }
     },
     "develop": {}

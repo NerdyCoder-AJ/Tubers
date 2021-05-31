@@ -7,6 +7,10 @@ name = "pypi"
 pillow = "*"
 django = "*"
 psycopg2 = "*"
+djangocms-admin-style = "*"
+django-suit = "==0.2.25"
+static = "*"
+django-jazzmin = "*"
 
 [dev-packages]
 
