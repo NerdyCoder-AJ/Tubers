@@ -11,6 +11,7 @@ djangocms-admin-style = "*"
 django-suit = "==0.2.25"
 static = "*"
 django-jazzmin = "*"
+django-ckeditor = "*"
 
 [dev-packages]
 
