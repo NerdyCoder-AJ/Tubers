@@ -12,8 +12,10 @@ django-suit = "==0.2.25"
 static = "*"
 django-jazzmin = "*"
 django-ckeditor = "*"
+django-allauth = "*"
 
 [dev-packages]
+yapf = "*"
 
 [requires]
 python_version = "3.9"

@@ -1,4 +1,4 @@
-from django.shortcuts import render, HttpResponse, HttpResponseRedirect
+from django.shortcuts import get_object_or_404, render, HttpResponse, HttpResponseRedirect
 from .models import Slider, Team
 from youtubers.models import Youtuber
 
